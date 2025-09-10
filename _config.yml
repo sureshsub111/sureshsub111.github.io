@@ -1,0 +1,17 @@
+title: Automation Interview Questions
+email: your-email@example.com
+description: >-
+  Free, comprehensive automation interview questions for Selenium, TestNG, Java, REST Assured.
+  Your go-to resource for SDET interview preparation.
+baseurl: ""
+url: "https://sureshsub111.github.io"
+
+# Theme and plugins
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+author: "Suresh"
