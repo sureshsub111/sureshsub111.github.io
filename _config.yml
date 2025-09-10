@@ -15,3 +15,5 @@ plugins:
 
 # SEO settings
 author: "Suresh"
+sass:
+  style: compressed

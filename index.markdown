@@ -3,6 +3,12 @@ layout: home
 title: Automation Interview Questions
 ---
 
+<nav style="text-align: center; margin: 30px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+  <a href="/selenium.html" style="margin: 0 15px; padding: 10px 20px; background-color: #0275d8; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Selenium</a>
+  <a href="/testng.html" style="margin: 0 15px; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">TestNG</a>
+  <a href="/api.html" style="margin: 0 15px; padding: 10px 20px; background-color: #dc3545; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">API Testing</a>
+</nav>
+
 # Automation Interview Questions
 
 Your free resource for Selenium, TestNG, Java, and API testing interview prep.
